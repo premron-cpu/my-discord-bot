@@ -1,0 +1,16 @@
+{
+  "name": "roblox-enemy-check-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for maintaining a private Roblox enemy list and checking a member's Roblox friends against it.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3"
+  }
+}
